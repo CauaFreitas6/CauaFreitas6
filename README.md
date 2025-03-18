@@ -1,16 +1,23 @@
-## Hi there 👋
+📌 About Me  
+🔹 **Data Analyst** passionate about data-driven insights and business intelligence.  
+🔹 Always learning new technologies and improving my analytical skills.
 
-<!--
-**CauaFreitas6/CauaFreitas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Stack  
+### 🖥️ Languages & Databases  
+- Java | Python | SQL | NoSQL  
+- Power BI | Excel | Tableau
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tools & Technologies  
+- Git & GitHub  
+- Data Visualization & BI Tools  
+- Machine Learning Basics
+
+---
+
+## 📚 Currently Learning  
+- Advanced Data Science & Machine Learning  
+- Big Data & Cloud Technologies
+
+💡 Let's talk about data!
