@@ -8,19 +8,16 @@
 💻 Linguagens e Bancos de Dados
 Java | Python | SQL | NoSQL
 
----
 
 📊 Ferramentas de BI e Visualização
 Power BI | Tableau | Excel | Google Sheets
 
----
 
 🧠 Outras Ferramentas e Tecnologias
 Git e GitHub
 Conceitos de Business Intelligence (BI)
 Noções básicas de aprendizado de máquina
 
----
 
 📚 Atualmente aprendendo
 🎓 Graduando em Sistemas de Informação pela Unisinos
