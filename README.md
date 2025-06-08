@@ -2,22 +2,29 @@
 🔹 **Data Analyst** passionate about data-driven insights and business intelligence.  
 🔹 Always learning new technologies and improving my analytical skills.
 
-🚀 Tech Stack  
-### 🖥️ Languages & Databases  
-- Java | Python | SQL | NoSQL  
-- Power BI | Excel | Tableau
+---
+
+🧰 Pilha de tecnologia
+💻 Linguagens e Bancos de Dados
+Java | Python | SQL | NoSQL
 
 ---
 
-### ⚙️ Tools & Technologies  
-- Git & GitHub  
-- Data Visualization & BI Tools  
-- Machine Learning Basics
+📊 Ferramentas de BI e Visualização
+Power BI | Tableau | Excel | Google Sheets
 
 ---
 
-## 📚 Currently Learning  
-- Advanced Data Science & Machine Learning  
-- Big Data & Cloud Technologies
+🧠 Outras Ferramentas e Tecnologias
+Git e GitHub
+Conceitos de Business Intelligence (BI)
+Noções básicas de aprendizado de máquina
+
+---
+
+📚 Atualmente aprendendo
+🎓 Graduando em Sistemas de Informação pela Unisinos
+🔸 Ciência de Dados Avançada e Aprendizado de Máquina
+🔸 Big Data e Tecnologias de Nuvem
 
 💡 Let's talk about data!
