@@ -7,7 +7,7 @@
 ### 📦 Pilha de tecnologia
 
 #### 🖥️ Linguagens e Bancos de Dados  
-Java | Python | SQL | NoSQL
+Python | SQL | NoSQL
 
 #### 📊 Ferramentas de BI e Visualização  
 Power BI | Tableau | Excel | Google Sheets
