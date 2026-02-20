@@ -12,6 +12,8 @@ Python | SQL | NoSQL
 #### 📊 Ferramentas de BI e Visualização  
 Power BI | Tableau | Excel | Google Sheets
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 #### 🧠 Outras Ferramentas e Tecnologias  
 Git e GitHub  
 Conceitos de Business Intelligence (BI)  
